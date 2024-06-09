@@ -30,5 +30,4 @@ public class Main29 {
 		System.out.printf("US decimal point: %.3f%n", measure);
 
 	}
-
 }
